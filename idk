@@ -1,7 +1,8 @@
 <html>
 <body>
 
-<h1> ik ben aan het programeren
+<h1 style='color: green; size: 40px;'>ik ben aan het programeren</h1>
+<p> Gebruik <i>python -m http.server 3000</i>. voor antwoorden
 
 </body>
 </html>
